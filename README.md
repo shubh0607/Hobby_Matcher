@@ -133,9 +133,7 @@ text
 - `POST /api/messages/send` - Send a message
 - `GET /api/messages/conversation/:userId` - Get conversation with specific user
 
-## 🌟 Screenshots
 
-![Dashboard](https://via.placeholder.com/800x400/667eea/ffffff?text=Add+Your+Screenshot+Here)
 
 *Add your actual screenshots here*
 
