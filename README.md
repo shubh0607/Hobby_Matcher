@@ -3,7 +3,7 @@
 **A full-stack social networking application that connects people based on shared hobbies and interests.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/shubh0607/Hobby-Matcher)](https://github.com/shubh0607/Hobby-Matcher/stargazers)
+
 
 ## 🚀 Features
 
